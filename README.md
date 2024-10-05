@@ -1,6 +1,6 @@
 # Facial-recognition-with-dlib
 
-In this project, we will explore the use of the dlib library to detect faces in an image and perform facial recognition. Our aim is to build a system that can identify individual faces in an image and match them with known individuals.
+In this project,  I will try explore the use of the dlib library to detect faces in an image and perform facial recognition. Our aim is to build a system that can identify individual faces in an image and match them with known individuals.
 
 Dlib is a machine learning library that provides state-of-the-art algorithms for computer vision tasks such as face detection, facial landmark detection, and facial recognition. It also provides a number of pre-trained models that can be used to quickly and accurately perform these tasks.
 
